@@ -1,0 +1,125 @@
+Id,abbreviation_de,title_de,description_de,abbreviation_en,Title_en,description_en,body_region_de,body_detail_de,Body_region_en,body_detail_en,deception_rating
+0,Acc,Arme verschränkt,Arme verschränkt,Acc,Arms crossed,often due to temperature or comfort,Oberkörper,Arm,upperbody,arm,4
+1,Ht,Kopf schräg legen,2,DNL,head tilt,,Oberkörper,,,,
+2,Ct,Kinn vorstrecken,Kinn wird nach vorne gestreckt,Ct,chin thrust,Chin pushed forward,Kopf,Kinn,head,chin,4
+3,Ef,Brauenblitzer,Kurzer Augenbrauenbewegung nach oben,Ef,eyebrow flash,Brief eyebrow raise,Kopf,Auge,head,eye,1
+4,Hd,head downcast,,DNL,head,head,0,,,,2
+5,Lc,lip compression,,B,head,mouth,0,,,,2
+6,Ts,teeth sucking,,B,head,mouth,0,,,,3
+7,Tu,turtling,,BDA,upperbody,shoulder,0,,,,2.5
+8,Om,object in mouth,,B,head,mouth,0,,,,2.5
+9,Jc,jaw clenching,,BA,head,mouth,0,,,,2.5
+10,Wd,nostril wing dilation,,BDA,head,nose,0,,,,3
+11,Cg,Bestätigungsschein,Blick zur Bestätigung,Cg,confirmation glance,Glance for confirmation,Kopf,Auge,head,eye,4
+12,Yn,yawn,1,DNL,head,mouth,0,,,,
+13,Ha,Glück,Happiness sichtbar im Gesicht,Ha,happiness,Happiness visible on face,Kopf,Gesicht,head,face,1
+14,Fl,Rötung,Flush im Gesicht sichtbar,Fl,flushing,Flushing visible,Kopf,Gesicht,head,face,1.5
+15,Hb,head back,1.5,DNL,head,head,0,,,,
+16,Lr,lip retraction,2,DA,head,mouth,0,,,,
+17,Ot,Augenspannung,Ocular orbital tension sichtbar,Ot,ocular orbital tension,Visible tension around eyes,Kopf,Auge,head,eye,2.5
+18,Bn,Augenbrauen verengen,Augenbrauen werden nach unten gezogen,Bn,eyebrow narrowing,Eyebrows drawn downward,Kopf,Augenbraue,head,brow,2.5
+19,Vn,Belüftung,Brustbewegung beim Atmen sichtbar,Vn,ventilation,Visible chest movement when breathing,Oberkörper,Brust,upperbody,chest,3
+20,Aa,adams’s apple raise,4.0,BA,head,neck,0,,,,
+21,Gd,Führung,Geste zur Führung,Gd,guiding,Guiding gesture,Oberkörper,Hand,upperbody,hand,1
+22,Bg,Baton-Gesten,Gestik mit Schlagstock,Bg,baton gestures,Gestures with baton,Oberkörper,Hand,upperbody,hand,1.5
+23,Ye,vertical head shake,1,DNL,head,head,0,,,,
+24,Hs,head support,1,DNL,head,head,0,,,,
+25,Sp,Überraschung,Überraschung im Gesicht sichtbar,Sp,surprise,Surprise visible on face,Kopf,Gesicht,head,face,1
+26,Br,Augenblinzeln,Blitzartige Augenbewegung,Br,eye blink rate,Rate of eye blinking,Kopf,Auge,head,eye,1
+27,Pd,Pupillenerweiterung,Pupillen werden größer,Pd,pupil dilation,Pupils dilate,Kopf,Auge,head,eye,1.5
+28,Sq,Augenzusammenkneifen,Augen werden leicht zusammengekniffen,Sq,eye squint,Eyes slightly squinted,Kopf,Auge,head,eye,1
+29,Sh,Schulterzucken,Schultern werden hochgezogen,Sh,Shoulders raised, showing uncertainty or indifference,Oberkörper,Arm,upperbody,arm,1
+30,Sa,Traurigkeit,Traurigkeit im Gesicht sichtbar,Sa,sadness,Sadness visible on face,Kopf,Gesicht,head,face,1
+31,Dg,Ekel,Ekel im Gesicht sichtbar,Dg,disgust,Disgust visible on face,Kopf,Gesicht,head,face,1
+32,Fr,Angst,Angst im Gesicht sichtbar,Fr,fear,Fear visible on face,Kopf,Gesicht,head,face,1.5
+33,Co,Verachtung,Verachtung im Gesicht sichtbar,Co,contempt,Contempt visible on face,Kopf,Gesicht,head,face,1
+34,Ag,Wut,Wut im Gesicht sichtbar,Ag,anger,Anger visible on face,Kopf,Gesicht,head,face,1
+35,Pr,Schützende Gesten,Hände oder Arme schützen Körpermitte,Pr,protecting gestures,Hands or arms protect the torso,Oberkörper,Arme,upperbody,arms,2.5
+36,Sw,swallowing,2.5,BD,head,neck,0,,,,
+37,Ec,Ellenbogen geschlossen,Ellenbogen werden eng am Körper gehalten,Ec,Elbows held close to the body, protecting personal space,Oberkörper,Arm,upperbody,arm,3.5
+38,Ss,single shoulder shrug,4.0,D,upperbody,shoulder,0,,,,
+39,De,Finger strecken,Digital extension sichtbar,De,digital extension,Digital extension visible,Oberkörper,Hand,upperbody,hand,1
+40,Pe ,Handfläche zeigen,Handfläche sichtbar,Pe ,palm exposure,Palm exposure visible,Oberkörper,Hand,upperbody,hand,1
+41,Cs,Kinnstreichen,Kinn wird berührt oder gestreichelt,Cs,chin stroke,Chin touched or stroked,Kopf,Kinn,head,chin,1
+42,Pc,Pupillenverengung,Pupillen werden kleiner,Pc,pupil constrction,Pupils constrict,Kopf,Auge,head,eye,1
+43,Eo,Ellenbogen nach außen,Ellenbogen werden nach außen gestreckt,Eo,Elbows extended outward, signaling defensiveness,Oberkörper,Arm,upperbody,arm,1
+44,Ps,Haltung,Haltung des gesamten Körpers beobachten,Ps,posture,Observe whole body posture,Körper,Körper,body,body,1
+45,No,horizontal head shake,1,DNL,head,head,0,,,,
+46,Lf,Verschränkte Finger,Finger verschränkt,Lf,locked fingers,Fingers interlaced,Oberkörper,Hand,upperbody,hand,1
+47,St,Fingersteepling,Fingerkuppen berühren sich,St,steepling,Fingertips touching in triangle,Oberkörper,Hand,upperbody,hand,1.5
+48,Bh,Hinter dem Kopf,Hände hinter dem Kopf verschränkt,Bh,Hands clasped behind head, appearing relaxed or confident,Oberkörper,Arm,upperbody,arm,1.5
+49,Ah,Hände in die Hüften,Arme auf Hüfte,Ah,Arms on hips, showing dominance or confidence,Oberkörper,Arm,upperbody,Arm-head,1.5
+50,Shg,Selbstumarmung,Arme werden um den eigenen Körper gelegt,Shg,Arms wrapped around oneself, signaling self-protection,Oberkörper,Arm,upperbody,Arm-hip,1.5
+51,Bb,Hände hinter dem Rücken,Arme hinter dem Rücken verschränkt,Bb,Arms held behind back, neutral or waiting posture,Oberkörper,Arm,upperbody,arm,1.5
+52,Cr,constantly raised shoulders,2,BD,upperbody,shoulder,0,,,,
+53,Wp,Einarmig umschlungen,Ein Arm um den Körper gelegt,Wp,One arm wrapped around body, signaling insecurity or defense,Oberkörper,Arm,upperbody,arm,2.5
+54,Fz,freeze,3.5,BD,body,,0,,,,
+55,Ft,Gesicht berühren,Hand berührt Gesicht,Ft,facial touching,Hand touches face,Oberkörper,Hand,upperbody,hand,4
+56,Ttc,throat clasping,4.0,DA,head,neck,0,,,,
+57,Ia,Arme in die Luft,Arme werden erhoben,Ia,Arms raised, indicating surprise or excitement,Oberkörper,Arm,upperbody,arm,2
+58,4,Figure-four leg cross,1,DNL,lowerbody,leg,0,,,,
+59,Tlt,pelvic tilt,2,NA,lowerbody,pelvis,0,,,,
+60,Ff,pelvic facing,2,NA,lowerbody,pelvis,0,,,,
+61,Po,Hände in Tasche,Hände in Hosentaschen,Po,hands in pockest,Hands in pockets,Oberkörper,Hand,upperbody,hand,2
+62,Tch,Brust berühren,Hand berührt Brust,Tch,chest touching,Hand touches chest,Oberkörper,Hand,upperbody,hand,2
+63,Dc,double-leg cross,2,B~D,lowerbody,leg,0,,,,
+64,Tp,Klopfen,Leichte Klopfbewegung,Tp,tapping,Light tapping motion,Oberkörper,Hand,upperbody,hand,2.5
+65,Fi,Zappeln,Unruhige Handbewegung,Fi,fidgeting,Fidgeting with hands,Oberkörper,Hand,upperbody,hand,2
+66,Grs,Zweihändige Griffbewegung,Beide Hände greifen etwas,Grs,Two-handed grasping,Two-handed grasping,Oberkörper,Hand,upperbody,upperbody,2
+67,Bon,Hände am Nacken,Hände am Nacken verschränkt,Bon,hands on back of the neck,Hands on back of neck,Oberkörper,Hand,upperbody,upperbody,
+68,Lp,lint picking,2.5,BA,upperbody,hand,0,,,,
+69,Wf,Hand auf Stirn,Hand auf Stirn gelegt,Wf,wrist to forehead,Hand on forehead,Kopf,Gesicht,head,face,2.5
+70,Ba,Barriere-Geste,Arme oder Beine werden abwehrend positioniert,Ba,Oberkörper/Unterkörper,Arm/Bein,upperbody,lowerbody,arm,leg,3
+71,Bc,barrier cross,3,DBA,behaviour,,0,,,,
+72,Pdn,palms down,3,DA,upperbody,hand,0,,,,
+73,Gpr,Genitalschutz,Hände schützen den Genitalbereich,Gpr,genital protection,Hands protect the groin,Unterkörper,Leiste,lowerbody,groin,4
+74,Hu,hushing,4.0,BDA,head,"mouth,hand",0,hush voice by hand or object,,,
+75,Ge,Genital freilegen,Genitalbereich freigelegt,Ge,groin exposure,Groin exposed,Unterkörper,Leiste,lowerbody,groin,1
+76,Lg,leg crossing,1,DNL,head,leg,0,,,,
+77,Agg,Zehen nach oben,Zehen zeigen nach oben,Agg,toes upward pointing,Toes pointing upward,Kopf,Fuß,head,foot,1
+78,Bre,Atmungsrate,Beobachtung der Atemfrequenz,Bre,breathing rate,Observation of breathing rate,Oberkörper,Brust,upperbody,chest,0
+79,Fc,Rumpfposition,Torso wird zum Gegenüber oder weg gedreht,Fc,torso facing,Torso turned toward or away from interlocutor,Oberkörper,Brust,upperbody,chest,0
+80,Pt,Körperneigung,Leichte Neigung des Oberkörpers,Pt,posture tilt,Body slightly tilted,Oberkörper,Brust,upperbody,chest,0
+81,Kh,knee hugging,1.5,B,upperbody,knee,0,,,,
+82,Df,digital flexion,2,BDA,upperbody,hand,0,,,,
+83,Bi,binding legs,2,DA,lowerbody,leg,0,,,,
+84,La,locked ankle,2,BD,lowerbody,leg,0,,,,
+85,Gm,grooming gestures,2,A,upperbody,hand,0,,,,
+86,Thc,clasping th things,2,B,upperbody,hand,0,,,,
+87,Wt,wrist touching,2,D,upperbody,hand,0,,,,
+88,Ip,Zehen nach innen,Zehen zeigen nach innen,Ip,inward toe pointing,Toes pointing inward,Unterkörper,Fuß,lowerbody,foot,2
+89,Er,Augenreiben,Augen werden gerieben,Er,eyelid rubbing,Eyes rubbed,Kopf,Auge,head,eye,2.5
+90,Kc,knee clasp,2.5,A,lowerbody,knee,0,,,,
+91,Fw,foot withdrawel,3.5,BA,lowerbody,leg,0,,,,
+92,Fns,finger to nose,4.0,BD,upperbody,hand,0,,,,
+93,Opi,interaction with other’s property,1,DNL,behaviour,object,0,,,,
+94,Oi,object interaction,1,DNL,behaviour,object,0,,,,
+95,Sr,Schuh ausziehen,Schuhe werden ausgezogen,Sr,shoe removal,Shoes removed,Unterkörper,Fuß,lowerbody,foot,1
+96,Bc,Nachlässigkeit bei Eigentum,Lockerheit beim Umgang mit Kleidung oder Eigentum,Bc,belonging carelessmess,Carelessness with clothing or belongings,Verhalten,Kleidung,behaviour,clothing,1
+97,Wc,watch checking,1,DNL,behaviour,object,0,,,,
+98,Jb,Jacke zuknöpfen,Jacke wird zugeknöpft,Jb,jacket buttoning,Jacket being buttoned,Verhalten,Kleidung,behaviour,clothing,1.5
+99,Cc,Kleidung bedecken,Kleidung wird bewusst bedeckt,Cc,clothing covering,Clothing being deliberately covered,Verhalten,Kleidung,behaviour,clothing,1.5
+100,Pb,object barrier,2.0,DNL,behaviour,object,0,,,,
+101,Ca,Stuhlarm,Arm auf Stuhllehne gelegt,Ca,chair arms,Arm on chair armrest,Oberkörper,Arm,upperbody,arm,2
+102,Gs,Genitalschild,Hände schützen Genitalbereich,Gs,groin shield,Hands shield the groin,Unterkörper,Leiste,lowerbody,groin,2
+103,Ps,personal belonging security check,2,BDA,behaviour,object,0,,,,
+104,Ftb,fists on table,2.5,DA,upperbody,hand,0,,,,
+105,Oc,object concealment,3,BDA,behaviour,object,0,,,,
+106,Jp,jewelry play,3.5,BA,upperbody,hand,0,,,,
+107,Cl,feet around chair legs,4,BDA,lowerbody,leg,0,,,,
+108,Hes,voice hesitancy,4,D,speech,verbal,0,,,,
+109,Psd,psychological distancing,4,D,speech,verbal,0,,,,
+110,Rip,rising vocal pitch,4,D,speech,voice,0,,,,
+111,Spd,increas in vocal speed,4,D,speech,voice,0,,,,
+112,NA,non answer statemend,4,D,speech,verbal,0,,,,
+113,Prn,pronoun absence,4,D,speech,verbal,0,,,,
+114,Res,résumé statement,4,D,speech,verbal,0,,,,
+115,Nc,noncontracting statement,4,D,speech,verbal,0,,,,
+116,Qr,question reversal,4,D,speech,verbal,0,,,,
+117,An,ambiguity statement,4,D,speech,verbal,0,,,,
+118,Pol,politeness,4,D,speech,verbal,0,,,,
+119,Oa,overapologizing,4,DA,speech,verbal,0,,,,
+120,Mc,miniconfessions,4,D,speech,verbal,0,,,,
+121,Exc,exclusions,4,D,speech,verbal,0,,,,
+122,Chr,direct chronology,4,D,speech,verbal,0,,,,
+,,temporal shift,,,speech,verbal,0,shift of tenses while speaking,,,
